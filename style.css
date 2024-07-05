@@ -122,7 +122,7 @@ img {
     .parent-container {
         grid-template-columns: 1fr;
         height: auto;
-        max-width: 20rem;
+        max-width: 30rem;
         text-align: center;
     }
 
